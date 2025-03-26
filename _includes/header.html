@@ -9,7 +9,7 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle">Chapters</a>
           <ul class="dropdown-menu">
-            {% assign chapters = site.chapters | sort: 'chapter_number' %}
+            {% assign chapters = site.chapters | sort: 'order' %}
             {% for chapter in chapters %}
               <li><a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a></li>
             {% endfor %}
