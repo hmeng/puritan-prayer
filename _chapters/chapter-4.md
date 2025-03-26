@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: "Overcoming Common Barriers to Prayer"
+title: "Chapter 4: Overcoming Common Barriers to Prayer"
 subtitle: "Insights from John Owen, William Gurnall, and Thomas Brooks"
 chapter_number: 4
 ---

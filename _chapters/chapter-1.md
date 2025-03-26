@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: "Recognizing the Necessity of Prayer"
+title: "Chapter 1: Recognizing the Necessity of Prayer"
 subtitle: "Insights from John Bunyan and John Owen"
 chapter_number: 1
 ---

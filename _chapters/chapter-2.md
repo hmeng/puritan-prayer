@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: "Preparing the Heart for Prayer"
+title: "Chapter 2: Preparing the Heart for Prayer"
 subtitle: "Jonathan Edwards on Spiritual Affections"
 chapter_number: 2
 ---

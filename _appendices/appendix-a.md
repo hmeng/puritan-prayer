@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: "Selected Puritan Prayers"
+title: "Appendix A: Selected Puritan Prayers"
 subtitle: "For Personal and Group Use"
 order: 1
 ---

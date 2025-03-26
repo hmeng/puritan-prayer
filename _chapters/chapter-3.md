@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: "Principles of Effective Prayer"
+title: "Chapter 3: Principles of Effective Prayer"
 subtitle: "Insights from Richard Baxter and Thomas Watson"
 chapter_number: 3
 ---

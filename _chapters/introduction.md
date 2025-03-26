@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: "The Puritan Vision of Prayer"
+title: "Introduction: The Puritan Vision of Prayer"
 subtitle: "An Introduction to Puritan Prayer Practices"
 chapter_number: 0
 ---
