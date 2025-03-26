@@ -1,8 +1,8 @@
 title: "Praying with the Puritans"
 description: "An Accessible Guide to Prayer from the Puritan Tradition"
-author: "Your Name"
+author: "hmeng"
 baseurl: "/puritan-prayer"  # the subpath of your site, e.g. /blog
-url: ""  # the base hostname & protocol for your site
+url: "https://hmeng.github.io"  # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
