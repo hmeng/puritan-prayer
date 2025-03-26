@@ -16,9 +16,11 @@ collections:
   chapters:
     output: true
     permalink: /:collection/:name/
+    sort_by: chapter_number
   appendices:
     output: true
     permalink: /:collection/:name/
+    sort_by: chapter_number
 
 # Default layouts
 defaults:
