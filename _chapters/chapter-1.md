@@ -5,7 +5,7 @@ subtitle: "Insights from John Bunyan and John Owen"
 chapter_number: 1
 ---
 
-## Introduction: The Call to Prayer
+## The Call to Prayer
 
 In our fast-paced modern world, prayer often feels like a luxury we can't afford. We rush from commitment to commitment, our minds filled with tasks, worries, and distractions. Finding time for quiet contemplation seems nearly impossible. Yet the Puritans—who lived in their own turbulent times—insistently remind us that prayer isn't optional for the Christian life. It's absolutely essential.
 

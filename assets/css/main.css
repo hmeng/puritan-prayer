@@ -1,13 +1,13 @@
 /* Base Styles */
 :root {
-  --primary-color: #6a4c93;  /* Royal purple */
-  --secondary-color: #8d99ae;
-  --accent-color: #e07a5f;
-  --text-color: #2b2d42;
-  --light-text: #555b6e;
-  --background-color: #fff;
-  --light-background: #f8f9fa;
-  --border-color: #dee2e6;
+  --primary-color: #000080;  /* Royal blue */
+  --secondary-color: #8d99ae; /* Light gray */
+  --accent-color: #e07a5f; /* Salmon */
+  --text-color: #2b2d42; /* Dark gray */
+  --light-text: #555b6e; /* Slightly darker gray */
+  --background-color: #fff; /* White */
+  --light-background: #f8f9fa; /* Light gray */
+  --border-color: #dee2e6; /* Light gray */
 }
 
 * {

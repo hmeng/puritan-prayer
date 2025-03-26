@@ -1,234 +1,145 @@
 ---
 layout: chapter
 title: "Chapter 2: Preparing the Heart for Prayer"
-subtitle: "Jonathan Edwards on Spiritual Affections"
+subtitle: "Insights from Jonathan Edwards and Puritan Practices"
 chapter_number: 2
 ---
 
-## The Gardener's Approach
+## The Discipline of Heart Preparation
 
-Maria knelt by her garden bed, carefully testing the soil with her fingers. Too compact—it would need loosening. She added compost, working it in gently, preparing the ground before planting a single seed. Her neighbor often teased her about the time she spent preparing soil, but Maria knew the secret to her thriving garden wasn't just in the planting or watering—it was in the preparation.
+When was the last time you rushed into an important conversation unprepared? Perhaps a job interview, a difficult discussion with a loved one, or a presentation to colleagues? Most of us recognize that significant interactions require preparation. Yet when it comes to prayer—our conversation with the Creator of the universe—we often dive in with little thought or preparation.
 
-The Puritans approached prayer with similar wisdom. They knew that rushing into prayer with unprepared hearts was like scattering seeds on hard, rocky ground. For them, preparation wasn't an optional extra but essential groundwork for meaningful communion with God.
+The Puritans saw this tendency in their own time. They believed that the quality of our prayers depends largely on the preparation of our hearts. As Thomas Brooks (1608-1680) observed: "The heart must be prepared for prayer, as the ground is for seed." This chapter explores the Puritan understanding of heart preparation and offers practical guidance for cultivating receptivity in our own prayer lives.
 
-As Jonathan Edwards (1703-1758), who carried the Puritan tradition into the 18th century, wrote: "The religious affections are the spring of all true religion in the heart." The Puritans understood that our hearts—our inner disposition and affections—profoundly influence our prayers.
+## Jonathan Edwards on Spiritual Affections in Prayer
 
-## Jonathan Edwards on Spiritual Affections
+Jonathan Edwards (1703-1758), though slightly later than the earlier Puritans, represents the culmination of Puritan thought on spiritual experience. His masterwork, *A Treatise Concerning Religious Affections*, provides profound insights into the role of affections—what we might call emotions or dispositions—in authentic spiritual life, particularly prayer.
 
-Though Edwards came slightly after the classic Puritan era, he articulated and developed their understanding of how emotions (what he called "affections") relate to genuine spiritual experience, including prayer.
+### 1. Understanding True Spiritual Affections
 
-In his influential work, *A Treatise Concerning Religious Affections*, Edwards drew an important distinction: true spiritual experience isn't merely intellectual knowledge, nor is it raw emotion detached from truth. Instead, it involves "affections"—deep inclinations of the heart that combine understanding, emotion, and will.
+Edwards distinguished between mere emotions and true "spiritual affections." He wrote:
 
-### The Nature of True Spiritual Affections
+> "True religion, in great part, consists in holy affections... The holy Scriptures place much of religion in godly fear... [and] in holy love."
 
-For Edwards, genuine spiritual affections:
+For Edwards, genuine prayer isn't about generating intense feelings but cultivating proper spiritual dispositions: reverence, love, joy, and holy desire. These affections don't come naturally to our fallen hearts—they require deliberate cultivation.
 
-1. **Arise from divine illumination** – They come from a true spiritual understanding of God's glory, not just emotional stimulation
+**Reflection Question**: What emotions or attitudes typically characterize your prayers? Which spiritual affections might you need to cultivate more intentionally?
 
-2. **Center on God's excellence** – They focus on God's intrinsic beauty, not just his benefits to us
+### 2. The Source of Holy Affections
 
-3. **Transform the whole person** – They change not just feelings but character and conduct
+Edwards emphasized that we cannot manufacture authentic spiritual affections through our own effort. They are, at root, the work of the Holy Spirit:
 
-Edwards wrote: "True religion, in great part, consists in holy affections." But he was equally clear that not all religious emotions are trustworthy. Some feelings might be merely natural emotional responses or even counterfeit spiritual experiences.
+> "The Spirit of God is given to the true saints to dwell in them, as his proper lasting abode; and to influence their hearts, as a principle of new nature, or as a divine supernatural spring of life and action."
 
-**Practical Implication**: Before prayer, Edwards would encourage us to examine not just what we know about God but our heart's attitude toward Him. Do we come merely out of duty, or with affections properly stirred by His goodness and majesty?
+This insight offers both humility and hope as we prepare for prayer. We can't force the right feelings, but we can position ourselves to receive what only the Spirit can give.
 
-### How Edwards Would Guide Our Prayer Preparation
+**Prayer Exercise**: Before beginning your prayer time, pause to invite the Holy Spirit to awaken proper affections in your heart. Ask specifically for the gift of holy reverence and love.
 
-If Edwards were advising us today, he might suggest these preparatory practices:
+### 3. Meditation as Preparation
 
-1. **Meditate on God's attributes** – Reflect on His goodness, wisdom, power, and love until your heart warms to these truths
+Edwards practiced and taught extensive meditation before prayer. In his *Directions for Judging of Persons' Experiences*, he wrote:
 
-2. **Confront competing affections** – Identify what else your heart loves that might be displacing love for God
+> "Retire frequently for secret prayer and meditation. Conversing much with your own heart... will be the way to have a good acquaintance with your own heart and to know your own state."
 
-3. **Seek the Spirit's illumination** – Ask God to help you see His beauty more clearly, knowing that true affections arise from spiritual perception
+For Edwards, meditation meant sustained reflection on Scripture, divine attributes, or one's spiritual condition. This practice doesn't come easily in our distracted age, but it remains essential for heart preparation.
 
-**Exercise**: Before your next prayer time, spend 5 minutes meditating on one attribute of God (His faithfulness, wisdom, etc.). Note how this reflection shapes your approach to prayer.
+**Practical Application**: Before prayer, spend 5-10 minutes meditating on a single verse of Scripture or attribute of God. Notice how this focused preparation changes your prayer experience.
 
-## The Puritan Practice of Heart Preparation
+## Puritan Practices for Heart Preparation
 
-While Edwards provided the theological framework, other Puritan writers offered practical guidance for preparing the heart for prayer.
+Beyond Edwards' insights, other Puritan writers offered practical guidance for preparing the heart for prayer. Their approaches, while varied, share common elements we can adapt for today.
 
-### Thomas Brooks: Guarding Against Distractions
+### 1. Self-Examination: Clearing Away Obstacles
 
-Thomas Brooks (1608-1680) recognized that the unprepared heart would inevitably be plagued by distractions. In *Precious Remedies Against Satan's Devices*, he wrote:
+Richard Baxter (1615-1691) emphasized self-examination as a crucial preparatory step for prayer:
 
-> "When you come to pray, you should say to your heart: 'O my heart, be serious now; this is no time to trifle with God.'"
+> "Take heed to all the frame of your hearts, and to the method of your own thoughts... Examine yourselves: without self-knowledge, you can have neither repentance, nor faith, nor humility, nor thankfulness."
 
-Brooks suggested several practices to guard the heart before prayer:
+The Puritans regularly practiced self-examination to identify sin, distractions, or improper motivations that might hinder prayer. This wasn't about fostering unhealthy introspection but clearing away obstacles to communion with God.
 
-1. **Recognize the solemnity** – Remind yourself you are approaching the King of kings
+**Guided Practice**: Before your next prayer time, ask yourself these three questions:
+- What sins do I need to confess before approaching God?
+- What worries or distractions do I need to set aside?
+- What false motives might be driving my prayers today?
 
-2. **Set a watch on wandering thoughts** – Acknowledge distractions will come and commit to redirecting them
+### 2. Contemplating God's Character: Cultivating Reverence
 
-3. **Pray for focus before you pray** – Ask God to gather your scattered thoughts
+Thomas Watson (c.1620-1686) taught that contemplating God's attributes was essential preparation for prayer:
 
-**Reflection Question**: What are your most common distractions during prayer? How might acknowledging these before you begin praying help guard against them?
+> "When you are about to pray, get a due and right apprehension of God's majesty and glory... If a king were on his throne, and you should come and turn your back on him and talk with someone else, would he not interpret this as contempt? Yet this is our behavior towards the great God!"
 
-### Richard Sibbes: Warming the Heart
+The Puritans knew that familiarity can breed contempt—even in our relationship with God. Intentional reflection on God's holiness, power, wisdom, and love cultivates the reverence that marks meaningful prayer.
 
-Richard Sibbes, known as "the sweet dropper" for his gentle style, emphasized warming the heart before prayer. In *The Bruised Reed*, he wrote:
+**Meditation Exercise**: Choose one attribute of God (holiness, wisdom, faithfulness, etc.). Spend five minutes reflecting on this attribute, considering both Scripture passages that reveal it and examples from your own experience.
 
-> "We should endeavor to have our hearts warmed with the things we are to speak of, that we may speak to God from our hearts."
+### 3. Scripture Reading: Tuning the Heart
 
-Sibbes suggested these practices:
+John Bunyan advised Scripture reading as a means of tuning the heart for prayer:
 
-1. **Remember God's gracious invitation** – Reflect on God's willingness to hear you
+> "The Holy Scriptures are of use to us in prayer, for therein we find both encouragement and exhortation thereto; its difficulties solved and removed; its aid and assistance promised, and blessed examples of the grace of prayer."
 
-2. **Recall past mercies** – Bring to mind specific ways God has shown faithfulness to you
+For the Puritans, Scripture and prayer were inseparable companions. Bible reading wasn't just about gaining information but preparing the heart by aligning our thoughts with God's revealed truth.
 
-3. **Use Scripture to kindle affection** – Read passages that speak of God's love and care
+**Group Discussion Question**: How has Scripture reading influenced your prayers? Can you identify specific passages that have shaped your understanding of prayer or given you words when your own were inadequate?
 
-**Group Discussion Question**: Share an experience when recalling God's past faithfulness made a significant difference in your approach to prayer. How did it change your prayers?
+## Addressing Obstacles to Heart Preparation in Modern Life
 
-## The Role of Scripture in Heart Preparation
+The Puritans faced their own challenges to prayer—persecution, political upheaval, and physical hardship. Yet our modern context presents unique obstacles to heart preparation that they couldn't have anticipated.
 
-For the Puritans, Scripture was essential in preparing the heart for prayer. They practiced what we might call a "Scripture-soaked" approach to prayer preparation.
+### 1. Digital Distraction
 
-### Matthew Henry: Scripture as the Prayer Primer
+Our constant connectivity through smartphones and other devices creates unprecedented challenges for developing the focused attention prayer requires. Research suggests that even the presence of a smartphone reduces cognitive capacity and attention.
 
-Matthew Henry emphasized using Scripture to shape one's heart for prayer. He believed the Bible should guide not just what we pray for but how we approach God.
+**Practical Strategy**: Create a "digital boundary" around your prayer time. Turn devices off or place them in another room. Consider using a physical Bible rather than a digital one for pre-prayer Scripture reading.
 
-In his *Method for Prayer*, Henry provided Scripture-based templates that believers could use to properly frame their hearts. He wrote:
+### 2. Hurry and Busyness
 
-> "When we pray with our hearts full of the Word, we pray most comfortably, most profitably, and most acceptably."
+In his book *The Ruthless Elimination of Hurry*, John Mark Comer identifies hurry as the great enemy of spiritual life in our age. The Puritans would agree. They practiced what they called "holy leisure"—intentional spaces of unhurried time with God.
 
-Henry's approach suggests:
+**Countercultural Practice**: Schedule prayer appointments in your calendar, making them at least 25% longer than you think necessary. This margin prevents rushing and allows space for proper heart preparation.
 
-1. **Read Scripture before prayer** – Let the Bible's truths and tone shape your heart
+### 3. Emotional Numbness
 
-2. **Meditate on appropriate passages** – Choose texts that align with your prayer needs
+Many of us live with a degree of emotional disconnection—a defense mechanism in a world of overwhelming information and stimulation. This numbness makes Edwards' emphasis on "holy affections" particularly challenging.
 
-3. **Borrow biblical language** – Use Scripture's own words to express your heart
-
-**Practical Exercise**: Before prayer, read Psalm 103:1-5. Meditate on the blessings it enumerates. Then begin your prayer by expressing gratitude for these specific blessings in your own life.
-
-### Thomas Watson: Scripture as Heart-Examiner
-
-Thomas Watson viewed Scripture as a mirror that prepares us for prayer by showing us our true condition. In *The Doctrine of Repentance*, he wrote:
-
-> "The Word discovers our disease, prayer procures the remedy."
-
-Watson recommended:
-
-1. **Allow Scripture to examine you** – Read with openness to conviction about sin
-
-2. **Let the Bible diagnose spiritual needs** – Use it to identify what to pray for
-
-3. **Find promises that address your condition** – Let these shape your requests
-
-**Self-Examination**: Read James 4:1-10 and allow it to examine your heart. What does this passage reveal about potential attitudes or sins that might hinder your prayers?
-
-## Addressing Modern Obstacles to Heart Preparation
-
-The Puritans lived in a different era, but their wisdom speaks directly to our contemporary challenges in preparing for prayer.
-
-### Obstacle 1: Digital Distraction
-
-Our constant connectivity makes the quiet preparation the Puritans valued nearly impossible for many of us.
-
-**Puritan-Inspired Solution**: Create a digital boundary around prayer times. Richard Baxter advocated for a separate "prayer closet"—a dedicated space for communion with God. Our equivalent might be shutting off notifications and designating a distraction-free zone.
-
-**Practical Step**: Before prayer, put your devices in another room or on "do not disturb" for at least 15 minutes. Notice how this affects your ability to prepare your heart.
-
-### Obstacle 2: Hurried Schedules
-
-Our packed schedules leave little room for the unhurried heart preparation the Puritans practiced.
-
-**Puritan-Inspired Solution**: John Owen spoke of "stated times" for prayer—regular, protected periods. For us, this means intentionally scheduling not just prayer time but preparation time.
-
-**Practical Step**: Add 5-10 minutes of "heart preparation" time before your regular prayer times. Use this specifically to transition your mind and heart from daily activities to communion with God.
-
-### Obstacle 3: Emotional Disconnection
-
-Our culture often teaches us to disconnect from deeper emotions, making it difficult to engage our affections as the Puritans encouraged.
-
-**Puritan-Inspired Solution**: Jonathan Edwards practiced what he called "soliloquy"—talking to his own soul about spiritual matters. This self-conversation helped reconnect him to his spiritual affections.
-
-**Practical Step**: Before prayer, ask yourself: "Soul, what are you feeling toward God right now? What is keeping you from full engagement with Him?" Write down your responses as a way to reconnect with your emotional state.
+**Healing Exercise**: In preparation for prayer, practice emotional honesty by completing these sentences:
+- "Right now I feel..."
+- "What I really want is..."
+- "I'm afraid that..."
+This simple practice helps reconnect us to our emotional reality before God.
 
 ## Exercises for Cultivating Receptivity Before Prayer
 
-Based on Puritan practices, here are three exercises to help prepare your heart for prayer:
+As we conclude this chapter, here are several Puritan-inspired practices for heart preparation that you can implement immediately:
 
-### 1. The Scripture Immersion
+### 1. The Five-Minute Preparation
 
-**Purpose**: To allow God's Word to shape your heart before prayer.
+Even a brief period of preparation can significantly enhance your prayer experience:
+- 1 minute: Silence and setting aside distractions
+- 2 minutes: Scripture reading (perhaps a psalm)
+- 1 minute: Self-examination
+- 1 minute: Contemplating God's character
 
-**Method**: 
-- Select a short passage (5-10 verses) related to prayer or God's character
-- Read it slowly three times
-- First reading: Simply absorb the words
-- Second reading: Note what stands out to you
-- Third reading: Consider how this truth should shape your approach to God
-- Begin your prayer by responding to the passage
+### 2. Praying for Prayer
 
-**Time Required**: 5-7 minutes
+The Puritans often "prayed for prayer"—asking God to prepare their hearts and help them pray. Try this simple prayer from the Puritan collection *The Valley of Vision*:
 
-### 2. The Affection Examination
+> "Lord, teach me to pray. I confess that the requests of passion and the fears of flesh hinder my praying. Give me a heart and tongue filled with heavenly ingredients."
 
-**Purpose**: To recognize and align your heart's affections before prayer.
+### 3. Creating Physical Preparation Rituals
 
-**Method**:
-- Sit quietly for 3 minutes, attending to your current emotional state
-- Ask yourself: "What am I feeling most strongly right now?"
-- Consider: "How might these feelings be affecting my approach to God?"
-- Acknowledge these emotions to God as you begin prayer
-- If your emotions are drawing you away from God, ask for His help in reorienting your heart
+Physical actions can support spiritual preparation. Consider:
+- Creating a specific prayer space free of distractions
+- Lighting a candle to mark the transition to prayer time
+- Using a comfortable but alert posture (kneeling was common for Puritans)
+- Taking several deep breaths while mentally setting aside concerns
 
-**Time Required**: 3-5 minutes
+## Conclusion: The Journey Toward Prepared Prayer
 
-### 3. The Gratitude Gateway
+Heart preparation isn't about achieving some perfect spiritual state before we're "allowed" to pray. Rather, it's about approaching God mindfully, with appropriate reverence and receptivity. The Puritans remind us that prayer is too significant an activity to engage in casually or thoughtlessly.
 
-**Purpose**: To warm the heart through thankfulness.
-
-**Method**:
-- Take a piece of paper and write down 3-5 specific evidences of God's goodness in your life
-- For each item, write one sentence about why it matters to you
-- Express gratitude for these before making any requests in prayer
-- Return to this list if your mind wanders during prayer
-
-**Time Required**: 5 minutes
-
-## Reflection Questions
-
-1. What difference have you noticed between times when you've rushed into prayer versus times when you've prepared your heart first?
-
-2. Which of the Puritan writers' approaches to heart preparation resonates most with you and why?
-
-3. What competing "affections" (using Edwards' terminology) most often distract your heart from fully engaging with God in prayer?
-
-4. How might you adapt the Puritan practice of heart preparation to fit your personality and circumstances?
-
-5. What would need to change in your schedule or habits to allow for more intentional preparation before prayer?
-
-## A Puritan Prayer of Preparation
-
-This prayer, adapted from various Puritan sources, can help prepare your heart before entering into extended prayer:
-
-> Gracious Father,
-> 
-> I come before You acknowledging my need for preparation.
-> Too often I rush into Your presence
-> with cluttered mind and cold heart.
-> 
-> Awaken my spiritual affections now.
-> Warm my heart with the wonder of Your love.
-> Quiet my racing thoughts.
-> Focus my scattered attention.
-> 
-> By Your Spirit, help me to see Your beauty.
-> By Your Word, align my desires with Yours.
-> By Your grace, make me present to You
-> as You are present to me.
-> 
-> I approach You now not based on my preparation
-> but on Christ's perfect mediation.
-> Yet prepare me to receive the grace
-> You so freely give.
-> 
-> In Jesus' name, Amen.
+As Richard Baxter wisely counseled: "Be sure to come with right ends and intentions: to glorify God, and get the exercise and increase of your grace, and fresh assurance of communion with God." When we prepare our hearts with these aims in mind, prayer becomes not a duty to complete but a relationship to cherish.
 
 ---
 
-**Next Chapter**: *Principles of Effective Prayer* - We'll explore Richard Baxter's guidance on disciplined prayer and Thomas Watson's insights on developing fervency and persistence in prayer. 
+**Next Chapter**: *Principles of Effective Prayer* - We'll explore the Puritan understanding of prayer's structure and essential elements, drawing on Richard Baxter's guidance for disciplined prayer and Thomas Watson's insights on developing fervency and persistence. 

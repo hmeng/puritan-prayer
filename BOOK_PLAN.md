@@ -65,7 +65,7 @@ Write: "The Puritans believed prayer was like breathing for the Christian soulâ€
 
 Each chapter should follow this general structure:
 
-1. **Opening Narrative** - A brief story or situation that introduces the chapter's theme
+1. **Opening Statement** - A brief introduction to the chapter's theme
 2. **Main Content** - Clearly divided into sections with descriptive headings
 3. **Puritan Insights** - Specific teachings from Puritan writers on the topic
 4. **Contemporary Application** - How these insights apply today

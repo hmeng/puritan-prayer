@@ -1,329 +1,293 @@
 ---
 layout: chapter
 title: "Chapter 5: Discerning and Submitting to God's Will"
-subtitle: "Lessons from John Flavel and Jeremiah Burroughs"
+subtitle: "Insights from John Flavel and Jeremiah Burroughs"
 chapter_number: 5
 ---
 
-## The Doctor's Dilemma
+## The Central Challenge of Prayer
 
-Dr. Sarah Chen stared at the job offers on her desk. The first was from a prestigious hospital in Boston—excellent salary, cutting-edge research opportunities, and professional prestige. The second was from a small clinic serving an underserved rural community—modest pay, limited resources, but tremendous need.
+"Your will be done." These four simple words from the Lord's Prayer contain one of the greatest challenges of the Christian life. What does it mean to align our prayers with God's purposes? How do we balance bold asking with humble submission? When should we persist in specific requests, and when should we surrender our desires to God's wisdom?
 
-For weeks, she had prayed for guidance, but clarity remained elusive. "Lord," she whispered, "I just want to do your will. But how do I know what that is?"
+These questions aren't merely theological abstractions—they touch the deepest struggles of our prayer lives. The mother praying for her wayward child, the patient facing a difficult diagnosis, the job-seeker facing rejection, all eventually face the same question: How do I pray when I don't know God's will in this situation?
 
-This tension—between desiring God's will and discerning it—is one every praying Christian faces. Whether we're making major life decisions or simply wondering how to pray about ongoing situations, we often find ourselves asking: What is God's will in this matter? How should I align my prayers with His purposes? And what does it mean to submit to His will when it differs from my desires?
+The Puritans wrestled deeply with these questions. Living in times of plague, persecution, and political upheaval, they needed a robust understanding of prayer that could withstand life's harshest realities. This chapter explores their insights on aligning our prayers with God's purposes, drawing particularly on the wisdom of John Flavel and Jeremiah Burroughs.
 
-The Puritans, with their unwavering commitment to Scripture and profound understanding of human nature, provide rich guidance for navigating these questions. Two Puritan writers offer particularly valuable insights: John Flavel on aligning our prayers with God's purposes, and Jeremiah Burroughs on finding contentment in God's sovereign decisions.
+## John Flavel on Aligning Prayers with God's Purposes
 
-## John Flavel: Aligning Prayers with God's Purposes
+John Flavel (c.1630-1691) was a pastor who knew personal suffering intimately. He buried three wives and faced ejection from his pulpit for his religious convictions. His writings on prayer reflect both theological depth and hard-earned wisdom.
 
-John Flavel (1628-1691) served as a minister in Dartmouth, England, enduring persecution for his nonconformist convictions. His writings reveal a pastor deeply concerned with helping ordinary believers understand how their prayers could align with God's purposes.
+### 1. Understanding God's Will: Revealed and Secret
 
-### Understanding God's Will
+Flavel made a crucial distinction regarding God's will that helps us approach prayer with greater clarity:
 
-Flavel distinguished between what theologians call God's "decretive will" (what He has sovereignly determined) and His "preceptive will" (what He has commanded in Scripture):
+> "God has revealed his will in his Word through commands, prohibitions, and principles. This is our rule for duty. But he has reserved many things to himself in his secret pleasure, which we ought not to be too curious to search into."
 
-> "There is a great difference between God's secret counsels by which He governs all events, and His commands by which He governs our duties. The former is the rule of His actions; the latter, of ours."
+For Flavel, God's "revealed will" includes everything Scripture clearly teaches about God's character and purposes. His "secret will" encompasses God's specific plans for our lives and world history.
 
-For Flavel, this distinction was crucial for prayer because:
-- We cannot know God's secret plans in advance
-- We can know God's revealed commands with certainty
-- Our prayers should align with what God has clearly revealed
-- We must submit to God's sovereign decisions as they unfold
+This distinction helps us understand what we can know with certainty (God's revealed character and commands) and what we must approach with humility (God's specific plans for our situations).
 
-**Reflection Question**: How might confusing these two aspects of God's will create struggles in your prayer life? When have you felt frustrated trying to discern God's secret plans rather than focusing on His revealed commands?
+**Reflection Question**: When you pray, do you find yourself more focused on discovering God's secret plans or aligning with his revealed character? How might shifting your focus change your prayers?
 
-### Flavel's Guidance for Discerning God's Will in Prayer
+### 2. The Purpose of Prayer: Alignment, Not Information
 
-In his practical work *The Mystery of Providence*, Flavel offered several principles for discerning how to pray according to God's will:
+Flavel challenged the notion that prayer's primary purpose is to gain information about God's secret plans:
 
-#### 1. Begin with What Is Clearly Revealed
+> "Prayer is not so much given to inform God or bend his will to ours, but to declare our desire of the glory of God, and to humble and conform our wills to his."
 
-> "In all cases where God's mind is revealed in His Word, we may pray with confidence... Where God's will is revealed, conform your will to it; where it is not revealed, submit your will to His disposal."
+For Flavel, prayer is less about getting God to reveal His specific plans and more about aligning our hearts with His known character and purposes.
 
-Flavel taught that:
-- Scripture provides clear guidance for many prayer concerns
-- God's moral will is always clearly expressed in His commands
-- We can pray with certainty for spiritual growth and holiness
+**Practical Application**: Before praying about a specific situation, take time to reflect on what you already know about God's character and promises from Scripture. How might these truths shape your requests?
 
-**Practical Application**: Before praying about any situation, ask: "What aspects of God's will are already clearly revealed in Scripture regarding this matter?" Begin by praying in alignment with these revealed aspects.
+### 3. Four Principles for Praying According to God's Will
 
-#### 2. Observe Providential Indicators
+Flavel offered practical guidance for aligning our prayers with God's purposes:
 
-Flavel believed that while providence alone cannot determine God's will, it often provides helpful indicators:
+#### Pray with Scripture as Your Guide
 
-> "Though we cannot know the mind of God out of His Word, yet we may know His hand in providences. The work of God has a voice, if we had skill enough to understand it."
+> "Let the matter of your prayer be always agreeable to the written Word. To pray for what God has not promised is to pray without a ground."
 
-He suggested looking for:
-- Open and closed doors of opportunity
-- Convergence of multiple indicators
-- Inner peace about a particular direction
+Flavel believed that Scripture provides both the content and boundaries for our prayers. When our requests align with biblical promises and principles, we can pray with greater confidence.
 
-Flavel cautioned, however, that providence must always be interpreted through Scripture, never independently of it.
+**Bible Study Exercise**: Choose a pressing prayer concern. Search Scripture for promises or principles related to this situation. How might these biblical truths shape your specific request?
 
-**Group Discussion Question**: Share an experience when God's providence seemed to guide your prayers in a particular direction. How did you discern this was truly God's guidance rather than merely your preference?
+#### Balance Boldness and Submission
 
-#### 3. Seek Sanctified Judgment
+> "Join earnestness with submission. Desire nothing more earnestly than that the good pleasure of God may be done, even if His good pleasure should cross your strongest inclinations."
 
-> "Judgments of Christians, when sanctified, are the feet of the soul by which it walks to the throne of grace."
+Flavel advocated neither passive resignation nor presumptuous demanding, but a middle way that brings our genuine desires to God while surrendering to His wisdom.
 
-Flavel emphasized that:
-- God gives wisdom to those who ask (James 1:5)
-- Sanctified reason is a gift to be used in discernment
-- Seeking counsel from mature believers aids discernment
+**Prayer Practice**: For an important request, try praying it two ways:
+1. With bold specificity: "Lord, here is exactly what I'm asking..."
+2. With humble submission: "Yet not my will, but yours be done."
 
-**Practical Step**: Identify 2-3 spiritually mature individuals who might help you discern how to pray about a specific situation. Consider meeting with them specifically to seek wisdom about aligning your prayers with God's purposes.
+#### Focus on Spiritual Goods
 
-### Flavel on Praying for Uncertain Outcomes
+> "Let spiritual goods be desired for themselves and more earnestly than temporals; and temporal goods only as helps to spiritual and eternal goods."
 
-Flavel offered wise counsel for situations where God's specific will remains unclear:
+Flavel encouraged prioritizing requests for spiritual growth, holiness, and kingdom advancement above material concerns—not because God doesn't care about our physical needs, but because spiritual blessings have eternal significance.
 
-#### The Principle of Conditional Submission
+**Self-Examination**: Review your recent prayer requests. What proportion focused on spiritual growth versus material needs? How might you better balance these areas?
 
-> "It is our duty to desire the accomplishment of God's will, rather than our own. Even Christ, whose will was never inordinate, said to His Father, 'Not my will, but thine be done.'"
+#### Remain Open to God's Unexpected Answers
 
-Flavel recommended:
-- Expressing desires honestly to God
-- Adding "if it be Your will" with genuine submission
-- Maintaining faith that God knows what is best
+> "God may deny a particular good you ask for, yet still hear and answer your prayer by giving something more necessary, though unasked for."
 
-**Practical Prayer Framework**: For uncertain matters, Flavel suggested this approach:
-1. Express your desire clearly to God
-2. Acknowledge the limits of your understanding
-3. Submit explicitly to God's wisdom
-4. Commit to accepting God's answer, whatever it may be
+Flavel recognized that God sometimes answers our prayers in ways we didn't anticipate—not by giving exactly what we requested, but by providing what we truly need.
 
-**Journaling Prompt**: Consider a situation where you're unsure how to pray. Write a prayer using Flavel's framework, honestly expressing your desires while submitting to God's wisdom.
+**Journaling Exercise**: Look back on prayers God seemed to "deny." Can you identify instances where He provided something different but ultimately better than what you requested?
 
-## Jeremiah Burroughs: Finding Contentment in God's Sovereign Will
+## Jeremiah Burroughs on God's Sovereignty in Prayer
 
-Jeremiah Burroughs (1599-1646) wrote his classic work *The Rare Jewel of Christian Contentment* during a time of great personal and national turmoil. His insights on submission to God's will offer profound guidance for prayer.
+Jeremiah Burroughs (c.1600-1646) was known for his profound teaching on contentment amid difficult circumstances. His insights on prayer emphasize God's sovereignty and our appropriate response.
 
-### Understanding True Submission
+### 1. The Mystery of Providence in Prayer
 
-Burroughs defined contentment as "that sweet, inward, quiet, gracious frame of spirit, which freely submits to and delights in God's wise and fatherly disposal in every condition." He distinguished between:
+Burroughs acknowledged the mystery of how our prayers interact with God's sovereign plans:
 
-- **Stoic resignation** – a passive, fatalistic acceptance
-- **Christian submission** – an active, faith-filled embrace
+> "Though God has decreed all things that shall be, yet prayer is no vain thing; God has decreed the end and the means together. God having decreed the end, has also established prayer as one of the chief means to that end."
 
-For Burroughs, true submission in prayer involves not merely accepting God's will but actively embracing it as good, wise, and loving.
+This balanced perspective helps us avoid two extremes: seeing prayer as unnecessary (since "God will do what He wants anyway") or viewing prayer as a way to control God (as if our requests dictate His actions).
 
-> "A Christian comes to this contentment not by having his own desires satisfied, but by having his will changed and made the same as God's."
+**Group Discussion Question**: How does understanding that prayer is both meaningful and non-manipulative change your approach to difficult requests?
 
-**Self-Examination**: In your prayers, do you tend toward stoic resignation ("whatever will be, will be") or genuine Christian submission ("Your will is better than mine")? What's the practical difference between these approaches?
+### 2. The Tension Between Bold Requests and Humble Submission
 
-### Burroughs' Principles for Submitting to God's Will
+Burroughs addressed the apparent contradiction between Jesus' encouragement to ask boldly and His own prayer of submission in Gethsemane:
 
-Burroughs offered several principles that help us genuinely submit to God's will in prayer:
+> "Christ would teach us to pray with earnestness and importunity, knocking and continuing in prayer; yet he would have us withal to submit our wills to God's... These two may well stand together: vehement supplication yet meek submission."
 
-#### 1. Recognize God's Right to Rule
+For Burroughs, there is no contradiction between passionate asking and humble submission—they are complementary aspects of healthy prayer.
 
-> "The Lord knows better how to manage things than you... When the ruler of a kingdom knows what is best for the whole state, shall a poor countryman come and tell him what laws to govern by?"
+**Practical Balance**: Consider a current significant prayer request. On a scale of 1-10, how would you rate:
+- Your boldness in asking specifically (1=vague, 10=very specific)
+- Your surrender to God's wisdom (1=demanding your way, 10=fully surrendered)
+Healthy prayer seeks strength in both dimensions.
 
-Burroughs taught that:
-- God's sovereignty is absolute
-- His wisdom is perfect
-- His love is unfailing
+### 3. Seven Signs of True Submission in Prayer
 
-When we truly grasp these truths, submission becomes not a burden but a privilege—we entrust our concerns to One infinitely wiser and more loving than ourselves.
+Burroughs offered practical guidance for discerning whether our prayers reflect genuine submission:
 
-**Prayer Exercise**: Spend 5 minutes meditating on God's wisdom, sovereignty, and love. Then offer a prayer surrendering a specific concern to His perfect governance, acknowledging His right to determine the outcome.
+#### Willingness to Wait on God's Timing
 
-#### 2. Embrace the Beauty of God's Will
+> "A submissive heart is willing to wait upon God and for God. It does not make haste and say, 'If the Lord does not answer me quickly, I will cease to pray.'"
 
-Burroughs believed submission goes beyond mere acceptance to active delight:
+True submission accepts that God's timing often differs from ours, and continues in prayer without imposing deadlines on God.
 
-> "It is one thing to submit to God's will because you cannot help it, and another thing to be pleased with His will... A gracious heart says, 'If this is the Lord's will, I am not only satisfied but pleased.'"
+**Self-Examination**: When was the last time you continued praying for something long after you expected an answer? What helped you persist?
 
-He encouraged believers to:
-- Look for God's purposes in every circumstance
-- Trust His perfect timing
-- Recognize that His "no" is as much a manifestation of His love as His "yes"
+#### Freedom from Bitterness When Requests Are Denied
 
-**Reflection Question**: When has God's denial of a request eventually proved to be a blessing? How might remembering these instances help you pray with greater trust about current concerns?
+> "When the heart is rightly subdued to God, no murmuring thoughts rise within against God for refusal, but they fall down quietly before Him."
 
-#### 3. Surrender Your Timing to God
+Burroughs suggested that our response to apparently unanswered prayer reveals much about the state of our submission.
 
-Burroughs observed that we often struggle not with God's will itself but with His timing:
+**Heart Check**: Think of a significant prayer request that God has not granted. What emotions arise when you consider this situation? Bring these honestly before God, asking for grace to trust His wisdom.
 
-> "A child of God must be willing to wait for God's time for the enjoyment of any good that he desires... It may be that this is God's time to humble you and prepare you for the mercy that He has stored up."
+#### Continued Trust in God's Goodness
 
-He counseled:
-- Seeing delays as preparation, not denial
-- Trusting God's perfect timing
-- Using waiting periods for spiritual growth
+> "A submissive spirit continues to acknowledge God as good and wise, even when His providence seems to contradict our understanding of what love should do."
 
-**Practical Application**: For a prayer request that seems delayed, reframe your prayer to embrace God's timing. Instead of asking simply for the desired outcome, ask for grace to wait well and for growth through the waiting.
+For Burroughs, true submission maintains confidence in God's character even when His actions are puzzling.
 
-#### 4. Align Your Will with God's
+**Worship Practice**: In the midst of a difficult prayer situation, intentionally praise God for specific aspects of His character (wisdom, love, faithfulness). Notice how this practice affects your perspective.
 
-Burroughs' most profound insight was that true contentment comes not from getting what we want but from wanting what God wants:
+#### Willingness to Accept God's Answer in Any Form
 
-> "The excellency of a Christian is when he can bring his will to God's; not when he can bring God's will to his."
+> "A heart rightly subdued to God is as willing to receive mercy in God's way as it is desirous to receive mercy itself."
 
-He taught that this alignment happens as we:
-- Study Scripture to understand God's values and priorities
-- Contemplate Christ's perfect submission
-- Allow suffering to reshape our desires
+Burroughs observed that we often want not just God's blessing but God's blessing in our prescribed manner.
 
-**Prayer Practice**: Before presenting requests to God, spend time praying, "Lord, shape my desires to match Yours." Then examine each request in light of God's revealed priorities in Scripture.
+**Reflection Question**: Is there a situation where you've been insisting not just on what God should do, but exactly how He should do it? How might opening to His methods change your prayer?
 
-### Burroughs on the Tension Between Bold Requests and Humble Submission
+#### Freedom from Questioning God's Decisions
 
-Like many Puritans, Burroughs recognized the biblical tension between praying boldly and submitting humbly. He offered wisdom for holding these in balance:
+> "A submissive heart does not call God to account for His dealings, saying, 'Why do you thus to one and thus to another?' but acquiesces in God's wisdom."
 
-> "We may with greatest liberty make known our requests to God, and shoot our arrows of prayer to Him with delight, as long as we keep this frame of spirit, to submit to His denials."
+Burroughs acknowledged the reality of our questions but emphasized that mature submission eventually rests in God's wisdom rather than demanding explanations.
 
-Burroughs suggested:
-- Praying with holy boldness, yet without presumption
-- Expressing desires fully, while holding them with open hands
-- Accepting God's answers graciously, whether yes or no
+**Prayer Exercise**: If you're struggling with "why" questions about God's decisions, try expressing them honestly in prayer, then consciously pivot to statements of trust: "I don't understand why, but I choose to trust Your wisdom."
 
-**Group Discussion Prompt**: How do we maintain both bold faith and humble submission in prayer? Discuss practical ways to hold these seemingly opposite approaches in biblical tension.
+#### Willingness to Glorify God Even Through Suffering
 
-## Practical Guidance for Praying When God's Will Seems Unclear
+> "Such a heart desires that God may be glorified in any condition, though it should be its own greatest affliction and sorrow."
 
-Drawing from both Flavel and Burroughs, here are practical approaches for those times when God's specific will seems uncertain:
+Perhaps Burroughs' most challenging mark of submission is the willingness to accept personal suffering if it advances God's glory and purposes.
 
-### 1. The Scripture-First Approach
+**Meditation Focus**: Consider Jesus' prayer in Gethsemane, where He accepted suffering for God's greater purposes. How does His example inspire and challenge your own prayers?
 
-**Method**:
-1. Identify the specific issue requiring prayer
-2. Search Scripture for relevant principles and commands
-3. Align your prayer with what Scripture clearly reveals
-4. For aspects not addressed in Scripture, pray with conditional submission
-5. Trust God with the outcome
+## The Tension Between Bold Requests and Humble Submission
 
-**Biblical Example**: Paul's thorn in the flesh (2 Corinthians 12:7-10). Paul prayed specifically for removal but submitted to God's higher purpose.
+Both Flavel and Burroughs recognized the apparent paradox in Scripture's teaching on prayer: we are commanded to ask boldly (Matthew 7:7-11, James 4:2) yet also to submit humbly to God's will (Matthew 6:10, James 4:15). How do we hold these together?
 
-### 2. The Multi-Faceted Discernment Approach
+### 1. Understanding the Compatibility of Boldness and Submission
 
-**Method**:
-1. Begin with prayer for wisdom (James 1:5)
-2. Study relevant Scriptural principles
-3. Seek counsel from mature believers
-4. Consider providential circumstances
-5. Pay attention to the inner witness of the Spirit
-6. Look for convergence among these various indicators
+Rather than seeing these as contradictory approaches, the Puritans understood them as complementary aspects of mature prayer:
 
-**Puritan Insight**: Flavel noted, "The more ways God speaks to one thing, the more certainly we may conclude it to be His will."
+- **Boldness** flows from confidence in God's character, promises, and invitation to approach Him as Father.
+- **Submission** arises from recognition of God's superior wisdom and loving purposes.
 
-### 3. The Two-List Method
+Mature prayer embraces both, much as a child might earnestly ask a loving parent for something while trusting that parent's judgment if the answer is "no" or "not yet."
 
-**Method**:
-1. Create two columns on paper
-2. In the first, list what you know with certainty about God's will from Scripture
-3. In the second, list what remains uncertain
-4. Pray with confidence about everything in the first column
-5. Pray with conditional submission about everything in the second
+**Case Study**: Jesus' prayer in Gethsemane (Matthew 26:36-46) perfectly demonstrates this balance. He asked specifically and intensely ("let this cup pass from me") while fully surrendering to the Father's will ("yet not as I will, but as you will").
 
-**Practical Example**: In praying about a job change, your first column might include integrity in the workplace, providing for your family, using your gifts, etc. Your second column might include specific location, timing, or which particular job offer to accept.
+### 2. Recognizing Different Types of Prayer Requests
 
-### 4. The Desire-Surrender Cycle
+The Puritans recognized that different types of requests call for different applications of boldness and submission:
 
-**Method**:
-1. Express your desires honestly to God
-2. Surrender those desires completely
-3. Ask God to either fulfill your desire or change it
-4. Rest in His wisdom, regardless of outcome
+#### Prayers for Clear Biblical Promises
 
-**Puritan Wisdom**: Burroughs taught, "I am going to heaven; what does it matter if my way there is difficult? If God gives me a hard time, what is that to having my sins forgiven and going to heaven eternally?"
+When praying for what God has explicitly promised (forgiveness, spiritual growth, salvation of others), we can pray with great confidence that our request aligns with God's will.
 
-## Exercises for Practicing Submission in Prayer
+**Example**: "Lord, I ask for wisdom to navigate this decision, confident that you have promised to give wisdom generously to all who ask." (James 1:5)
 
-Here are structured exercises to help develop a habit of discerning and submitting to God's will:
+#### Prayers for Personal Preferences
 
-### Exercise 1: The Surrender Inventory
+When praying about matters where Scripture gives freedom (career choices, major life decisions), we should express our desires honestly while recognizing that God may have other plans.
 
-**Purpose**: To practice surrendering specific areas to God's will
+**Example**: "Lord, I deeply desire this job opportunity and ask you to open this door if it aligns with your purposes. Yet I trust your wisdom if you have something different for me."
 
-**Method**:
-1. List 5-7 areas of your life (relationships, career, health, etc.)
-2. For each area, write one sentence expressing your current desire
-3. For each desire, write a corresponding statement of surrender
-4. Pray through both your desires and your statements of surrender
-5. Notice which surrenders feel most difficult and bring these specifically before God
+#### Prayers Amid Mystery and Suffering
 
-**Example**:
-- Desire: "I want my health to improve so I can be more active."
-- Surrender: "I trust that in whatever state of health I find myself, You will accomplish Your purposes in and through me."
+When praying through situations where God's purposes are especially mysterious (chronic illness, unexpected loss), we may experience the greatest tension between asking and surrendering.
 
-**Time Required**: 15-20 minutes
+**Example**: "Father, I ask for healing if it brings you glory. I honestly confess my struggle to understand your purposes in this suffering, yet I choose to trust your loving wisdom."
 
-### Exercise 2: Praying the Lord's Prayer with Emphasis on Submission
+## How to Pray When God's Will Seems Unclear
 
-**Purpose**: To use Jesus' model prayer to cultivate submission
+Many of our most difficult prayer situations involve uncertainty about God's specific will. Both Flavel and Burroughs offer guidance for these challenging circumstances.
 
-**Method**:
-1. Slowly pray through each phrase of the Lord's Prayer
-2. Pause extensively at "Thy will be done"
-3. Consider specific applications of this phrase to your current circumstances
-4. Name areas where you struggle to embrace God's will
-5. Conclude by reaffirming "For Thine is the kingdom, and the power, and the glory forever"
+### 1. Begin with What Is Clear
 
-**Puritan Connection**: Several Puritan writers, including Thomas Watson, wrote extensive meditations on each phrase of the Lord's Prayer.
+Flavel advised starting prayer by focusing on what we know with certainty about God's character and revealed will:
 
-**Time Required**: 10 minutes
+> "Though you cannot see your particular case in Scripture, yet you may see the attributes of God which give relief and foundation for faith in such a particular case."
 
-### Exercise 3: The Contentment Challenge
+**Practical Application**: When facing uncertainty, start your prayer by affirming what you know for certain: God's love, wisdom, power, and faithfulness. Let these foundational truths shape your specific requests.
 
-**Purpose**: To develop Burroughs' "rare jewel of Christian contentment" in prayer
+### 2. Submit Your Understanding to Scripture
 
-**Method**:
-1. Identify a situation where God's answer differs from your desire
-2. Write three potential good purposes God might have in this circumstance
-3. List three potential spiritual benefits this situation might yield
-4. Craft a prayer that embraces God's purposes while honestly acknowledging your feelings
-5. End with a statement of trust in God's wisdom
+Burroughs emphasized testing our impressions and desires against Scripture:
 
-**Puritan Insight**: Burroughs wrote, "In one providence I can see more of God than in all the histories of the world."
+> "Many are deceived by taking the strong stirrings of their own hearts to be the voice of God's Spirit."
 
-**Time Required**: 15 minutes
+This wisdom helps us avoid the trap of mistaking our strong desires for God's specific direction.
 
-## Reflection Questions
+**Scripture Exercise**: For an important prayer concern, identify 3-5 Scripture passages that provide principles relevant to your situation. Let these shape how you pray about the specifics.
 
-1. Which do you find more challenging: discerning God's will or submitting to it once you believe you understand it?
+### 3. Consult Godly Community
 
-2. How has your understanding of "praying according to God's will" been clarified or changed by the insights in this chapter?
+Both Flavel and Burroughs valued the discernment of the Christian community in understanding God's will:
 
-3. What specific area of your life do you currently struggle to surrender to God's sovereign purposes? What makes this surrender particularly difficult?
+> "The mutual light Christians receive from one another by way of spiritual conference is often necessary for knowing the will of God in special difficult cases." - Flavel
 
-4. In what ways might adding "if it be Your will" to your prayers become an empty phrase rather than a genuine expression of submission? How can you ensure it remains meaningful?
+**Community Practice**: Before making a major decision, ask 2-3 mature believers to pray with you about the situation. Their insights may help you better discern how to align your prayers with God's purposes.
 
-5. How has God used His "no" answers to prayer to shape your spiritual growth? What might this reveal about His purposes in current situations where His answer seems to be "wait" or "no"?
+### 4. Pay Attention to Providential Circumstances
 
-## A Prayer of Submission
+Flavel believed that God often guides through circumstances, though these should always be interpreted in light of Scripture:
 
-> Sovereign Lord,
-> 
-> You who hold all things in Your wise and loving hands,
-> I come acknowledging my limited understanding
-> and my tendency to cling to my own desires.
-> 
-> Teach me what Jeremiah Burroughs called
-> that rare jewel of Christian contentment—
-> not mere resignation to Your will,
-> but delight in it, trust in it, rest in it.
-> 
-> Like John Flavel, help me distinguish
-> between what You have clearly revealed
-> and what remains mysterious to me.
-> Give me confidence to pray according to Your Word
-> and humility to submit to Your providence.
-> 
-> I bring before You my honest desires,
-> not hiding them, but holding them with open hands.
-> Fulfill them if they align with Your purposes;
-> transform them if they do not.
-> 
-> May my prayer increasingly become
-> not "my will be done" but "Thy will be done,"
-> not reluctantly, but with the confidence
-> that Your will is always better than mine.
-> 
-> Through Christ, who in Gethsemane
-> showed us perfect submission, Amen.
+> "God's works and words do illustrate each other. What you read in His Word, you may see actings in His providence."
+
+**Discernment Practice**: Consider your current circumstances. What doors seem to be opening or closing? How might these providential factors inform your prayers?
+
+### 5. Exercise "Sanctified Common Sense"
+
+The Puritans valued sanctified reasoning—using our God-given mental faculties while acknowledging their limitations:
+
+> "God has given us understanding and reason to judge and consider of things, but He would have us to set the judgment and consideration of things a-work. Though God has decreed all actions and events, it does not follow that our choice is needless." - Burroughs
+
+**Decision Framework**: When facing an uncertain situation, consider:
+- Biblical principles relevant to the decision
+- Wise counsel from godly advisors
+- Circumstances that may indicate direction
+- Your own abilities, limitations, and desires
+
+## Practice in Praying with Both Confidence and Surrender
+
+As we conclude this chapter, here are several exercises to help you develop prayers that balance bold asking with humble submission:
+
+### 1. The Two-Part Prayer
+
+For major requests, try structuring your prayer in two parts:
+- First, express your specific desire with clarity and passion
+- Then, explicitly surrender the outcome to God's wisdom
+
+Example: "Father, I earnestly ask for healing from this condition, believing you have the power to restore health completely. Yet I surrender this request to your perfect wisdom, trusting that your plan for me is good even if it differs from my desire."
+
+### 2. The Three-Circle Exercise
+
+Draw three concentric circles on paper:
+- Inner circle: "God's revealed will" (write biblical commands and promises)
+- Middle circle: "My requests" (write your specific prayer requests)
+- Outer circle: "God's secret will" (leave blank to represent trust in God's unfolding plan)
+
+As you pray, consciously move from the inner circle outward—starting with what you know of God's revealed will, expressing your specific requests, and surrendering to God's secret will.
+
+### 3. Praying Scripture with Personal Application
+
+Select a biblical prayer (such as Paul's prayers in Ephesians 1:15-23 or 3:14-21) and personalize it for your situation, adding specific details while maintaining the prayer's God-centered focus.
+
+Example: "Father, I pray that you would give me a spirit of wisdom and revelation as I face this job interview tomorrow. Help me know you better through this process. Enlighten the eyes of my heart so I can see the hope to which you've called me, even if this particular opportunity doesn't work out..."
+
+### 4. The Daily Surrender
+
+Incorporate a brief prayer of submission into your daily routine:
+
+"Father, today I surrender my agenda, expectations, and desires to you. Help me want what you want, love what you love, and choose what you choose. I trust your wisdom for the seen and unseen circumstances of this day."
+
+This simple practice cultivates the habit of submission that can carry you through more difficult prayer situations.
+
+## Conclusion: From Tension to Trust
+
+The tension between bold asking and humble submission isn't a problem to solve but a mystery to embrace. The Puritans remind us that this apparent paradox reflects the very nature of our relationship with God—we are both beloved children invited to ask and finite creatures called to trust.
+
+As Jeremiah Burroughs beautifully expressed it: "The soul truly suited to God's will can say, 'This rule that God has established is exactly right. It would not be right if my will should determine the way things should be; but it is right that God's will should determine it.'"
+
+In the end, prayer's highest purpose isn't getting what we want but becoming who God wants us to be—people who desire His will more than our own. This transformation doesn't happen instantly but gradually as we practice bringing our honest requests to God while surrendering to His wisdom.
+
+The Puritans would assure us that no prayer offered in this spirit is ever wasted. Even when God's answer differs from our desire, the very act of praying with both boldness and submission shapes us more into the image of Christ, who in Gethsemane prayed the perfect prayer: "Nevertheless, not my will, but yours, be done."
 
 ---
 
-**Next Chapter**: *Biblically Grounded Prayer* - We'll explore Thomas Boston's methods for praying Scripture and Matthew Henry's approach to using biblical language in prayer. 
+**Next Chapter**: *Biblically Grounded Prayer* - We'll explore the Puritan practice of praying Scripture, drawing on Thomas Boston's approach to praying the Bible and Matthew Henry's insights on incorporating biblical language into prayer. 
