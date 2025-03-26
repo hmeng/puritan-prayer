@@ -10,7 +10,7 @@ title: Home
     <p>Discover timeless wisdom and practical guidance for a deeper prayer life, inspired by the rich Puritan tradition.</p>
     <div class="cta-buttons">
       <a href="{{ '/chapters/introduction' | relative_url }}" class="btn btn-primary">Start Reading</a>
-      <a href="{{ '/about/' | relative_url }}" class="btn btn-secondary">Learn More</a>
+      <a href="{{ '/about' | relative_url }}" class="btn btn-secondary">Learn More</a>
     </div>
   </div>
 </section>
