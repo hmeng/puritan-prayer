@@ -2,7 +2,7 @@
 layout: chapter
 title: "Chapter 6: Biblically Grounded Prayer"
 subtitle: "Wisdom from Thomas Boston and Matthew Henry"
-chapter_number: 6
+chapter_number: 7
 ---
 
 ## The Word and Prayer: Inseparable Companions

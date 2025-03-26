@@ -2,7 +2,7 @@
 layout: chapter
 title: "Chapter 5: Discerning and Submitting to God's Will"
 subtitle: "Insights from John Flavel and Jeremiah Burroughs"
-chapter_number: 5
+chapter_number: 6
 ---
 
 ## The Central Challenge of Prayer

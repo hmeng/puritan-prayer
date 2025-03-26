@@ -2,7 +2,7 @@
 layout: chapter
 title: "Chapter 3: Principles of Effective Prayer"
 subtitle: "Guidance from Richard Baxter and Thomas Watson"
-chapter_number: 3
+chapter_number: 4
 ---
 
 ## Understanding Prayer as Both Art and Discipline

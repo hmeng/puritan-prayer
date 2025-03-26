@@ -2,7 +2,7 @@
 layout: chapter
 title: "Chapter 7: Insights from Biblical Prayers"
 subtitle: "Learning from Moses, David, and Paul"
-chapter_number: 7
+chapter_number: 8
 ---
 
 ## Learning from the Masters of Prayer
