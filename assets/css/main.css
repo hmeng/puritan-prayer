@@ -1,0 +1,244 @@
+/* Base Styles */
+:root {
+  --primary-color: #6a4c93;  /* Royal purple */
+  --secondary-color: #8d99ae;
+  --accent-color: #e07a5f;
+  --text-color: #2b2d42;
+  --light-text: #555b6e;
+  --background-color: #fff;
+  --light-background: #f8f9fa;
+  --border-color: #dee2e6;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Merriweather', Georgia, serif;
+  line-height: 1.6;
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  margin-bottom: 1rem;
+  line-height: 1.3;
+  color: var(--primary-color);
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--accent-color);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header Styles */
+.site-header {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--border-color);
+  background-color: var(--background-color);
+}
+
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-title {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--primary-color);
+}
+
+.site-nav .nav-list {
+  display: flex;
+  list-style: none;
+}
+
+.site-nav .nav-list li {
+  margin-left: 2rem;
+  position: relative;
+}
+
+.site-nav a {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+/* Dropdown Styles */
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 10;
+  min-width: 200px;
+  background-color: var(--background-color);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 0.5rem 0;
+}
+
+.dropdown.active .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu li {
+  margin: 0 !important;
+}
+
+.dropdown-menu a {
+  display: block;
+  padding: 0.5rem 1rem;
+}
+
+.dropdown-menu a:hover {
+  background-color: var(--light-background);
+}
+
+/* Main Content Styles */
+.main-content {
+  padding: 3rem 0;
+  min-height: calc(100vh - 200px);
+}
+
+/* Chapter Styles */
+.chapter {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.chapter-header {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.chapter-title {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.chapter-subtitle {
+  font-size: 1.2rem;
+  color: var(--light-text);
+  font-style: italic;
+}
+
+.chapter-content {
+  margin-bottom: 3rem;
+}
+
+.chapter-content p {
+  margin-bottom: 1.5rem;
+}
+
+.chapter-content h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+}
+
+.chapter-content h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.4rem;
+}
+
+.chapter-content ul, .chapter-content ol {
+  margin-bottom: 1.5rem;
+  padding-left: 2rem;
+}
+
+.chapter-content li {
+  margin-bottom: 0.5rem;
+}
+
+.chapter-content blockquote {
+  margin: 2rem 0;
+  padding: 1rem 2rem;
+  border-left: 4px solid var(--primary-color);
+  background-color: var(--light-background);
+  font-style: italic;
+}
+
+.chapter-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+}
+
+/* Footer Styles */
+.site-footer {
+  padding: 2rem 0;
+  border-top: 1px solid var(--border-color);
+  background-color: var(--light-background);
+}
+
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-links ul {
+  display: flex;
+  list-style: none;
+}
+
+.footer-links li {
+  margin-left: 1.5rem;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .header-wrapper, .footer-wrapper {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .site-nav .nav-list {
+    margin-top: 1rem;
+    justify-content: center;
+  }
+  
+  .site-nav .nav-list li {
+    margin: 0 1rem;
+  }
+  
+  .dropdown-menu {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .footer-links ul {
+    margin-top: 1rem;
+    justify-content: center;
+  }
+  
+  .footer-links li {
+    margin: 0 0.75rem;
+  }
+  
+  .chapter-title {
+    font-size: 2rem;
+  }
+} 

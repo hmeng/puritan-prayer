@@ -1,0 +1,23 @@
+<script>
+  // Toggle dropdown menus
+  document.addEventListener('DOMContentLoaded', function() {
+    const dropdowns = document.querySelectorAll('.dropdown-toggle');
+    dropdowns.forEach(function(dropdown) {
+      dropdown.addEventListener('click', function(e) {
+        e.preventDefault();
+        this.parentNode.classList.toggle('active');
+      });
+    });
+    
+    // Close dropdowns when clicking outside
+    document.addEventListener('click', function(e) {
+      if (!e.target.matches('.dropdown-toggle')) {
+        dropdowns.forEach(function(dropdown) {
+          if (dropdown.parentNode.classList.contains('active')) {
+            dropdown.parentNode.classList.remove('active');
+          }
+        });
+      }
+    });
+  });
+</script> 

@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<article class="chapter">
+  <header class="chapter-header">
+    <h1 class="chapter-title">{{ page.title }}</h1>
+    {% if page.subtitle %}
+    <p class="chapter-subtitle">{{ page.subtitle }}</p>
+    {% endif %}
+  </header>
+
+  <div class="chapter-content">
+    {{ content }}
+  </div>
+
+  <div class="chapter-navigation">
+    {% if page.previous.url %}
+    <a class="prev" href="{{ page.previous.url | relative_url }}">&laquo; {{ page.previous.title }}</a>
+    {% endif %}
+    
+    {% if page.next.url %}
+    <a class="next" href="{{ page.next.url | relative_url }}">{{ page.next.title }} &raquo;</a>
+    {% endif %}
+  </div>
+</article> 

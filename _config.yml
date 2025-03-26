@@ -1,0 +1,38 @@
+title: "Praying with the Puritans"
+description: "An Accessible Guide to Prayer from the Puritan Tradition"
+author: "Your Name"
+baseurl: "/puritan-prayer"  # the subpath of your site, e.g. /blog
+url: ""  # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collection settings
+collections:
+  chapters:
+    output: true
+    permalink: /:collection/:name/
+  appendices:
+    output: true
+    permalink: /:collection/:name/
+
+# Default layouts
+defaults:
+  - scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: "chapter"
+  - scope:
+      path: ""
+      type: "appendices"
+    values:
+      layout: "appendix"
+  - scope:
+      path: ""
+    values:
+      layout: "default" 
