@@ -2,7 +2,7 @@
 layout: chapter
 title: "Chapter 2: Preparing the Heart for Prayer"
 subtitle: "Insights from Jonathan Edwards and Puritan Practices"
-chapter_number: 3
+order: 3
 ---
 
 ## The Discipline of Heart Preparation

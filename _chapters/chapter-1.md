@@ -2,7 +2,7 @@
 layout: chapter
 title: "Chapter 1: Recognizing the Necessity of Prayer"
 subtitle: "Insights from John Bunyan and John Owen"
-chapter_number: 2
+order: 2
 ---
 
 ## The Call to Prayer

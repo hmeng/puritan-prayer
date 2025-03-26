@@ -2,7 +2,7 @@
 layout: chapter
 title: "Introduction: The Puritan Vision of Prayer"
 subtitle: "An Introduction to Puritan Prayer Practices"
-chapter_number: 1
+order: 1
 ---
 
 ## Who Were the Puritans, Really?

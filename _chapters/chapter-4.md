@@ -2,7 +2,7 @@
 layout: chapter
 title: "Chapter 4: Overcoming Common Barriers to Prayer"
 subtitle: "Wisdom from John Owen, William Gurnall, and Thomas Brooks"
-chapter_number: 5
+order: 5
 ---
 
 ## The Universal Experience of Prayer Challenges

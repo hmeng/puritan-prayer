@@ -2,7 +2,7 @@
 layout: chapter
 title: "Conclusion: Embracing Puritan Wisdom in Contemporary Prayer"
 subtitle: "Implementing Timeless Practices in Modern Life"
-chapter_number: 10
+order: 10
 ---
 
 ## The Journey Completed, The Journey Beginning

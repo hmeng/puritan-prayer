@@ -44,6 +44,12 @@ title: Home
     <h2>Book Contents</h2>
     <div class="chapters-list">
       <div class="part">
+        <h3>Introduction</h3>
+        <ul>
+          <li><a href="{{ '/chapters/introduction' | relative_url }}">Introduction: The Puritan Vision of Prayer</a></li>
+        </ul>
+      </div>
+      <div class="part">
         <h3>Part 1: The Heart and Foundation of Prayer</h3>
         <ul>
           <li><a href="{{ '/chapters/chapter-1' | relative_url }}">Chapter 1: Recognizing the Necessity of Prayer</a></li>
@@ -69,6 +75,12 @@ title: Home
         <ul>
           <li><a href="{{ '/chapters/chapter-7' | relative_url }}">Chapter 7: Insights from Biblical Prayers</a></li>
           <li><a href="{{ '/chapters/chapter-8' | relative_url }}">Chapter 8: The Psalms as a Prayer Manual</a></li>
+        </ul>
+      </div>
+      <div class="part">
+        <h3>Conclusion</h3>
+        <ul>
+          <li><a href="{{ '/chapters/conclusion' | relative_url }}">Conclusion: Embracing Puritan Wisdom in Contemporary Prayer</a></li>
         </ul>
       </div>
     </div>

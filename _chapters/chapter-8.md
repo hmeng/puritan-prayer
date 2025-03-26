@@ -2,7 +2,7 @@
 layout: chapter
 title: "Chapter 8: The Psalms as a Prayer Manual"
 subtitle: "Insights from Isaac Watts and Matthew Henry"
-chapter_number: 9
+order: 9
 ---
 
 ## The Divinely Inspired Prayer Book
