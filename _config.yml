@@ -16,11 +16,11 @@ collections:
   chapters:
     output: true
     permalink: /:collection/:name/
-    sort_by: chapter_number
+    sort_by: order
   appendices:
     output: true
     permalink: /:collection/:name/
-    sort_by: chapter_number
+    sort_by: order
 
 # Default layouts
 defaults:
@@ -33,7 +33,7 @@ defaults:
       path: ""
       type: "appendices"
     values:
-      layout: "appendix"
+      layout: "chapter"
   - scope:
       path: ""
     values:
